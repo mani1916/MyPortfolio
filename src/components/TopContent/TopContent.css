@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
+
+.TopContent{
+
+    margin-top: 90px;
+}
+
+.TopContent_Container h1{
+    font-size: 60px;
+}
+
+.TopContent_Container p{
+    padding-right: 70px;
+    font-size: 22px;
+}
+.TopContentCVbutton{
+    border: none;
+    color: #ea4e43;
+    background-color: #fce9e8;
+    padding: 10px 10px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.TopContentWorkbutton{
+    margin-left: 20px;
+    border: none;
+    color:#0a85d1;
+    background-color: #e2ecf3;
+    padding: 10px 10px;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+}

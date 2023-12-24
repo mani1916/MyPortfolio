@@ -1,0 +1,20 @@
+.TopContainer{
+    display: flex;
+}
+
+.TopContainer img{
+        margin-top: 20px;
+        height: 570px;
+        
+}
+
+.TopContainer_left{
+    display: flex;
+    flex: 0.5;
+  align-items: center;
+  justify-content: center;
+}
+
+.TopContainer_right{
+    flex:0.5;
+}
